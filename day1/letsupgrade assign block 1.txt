@@ -1,0 +1,31 @@
+Q1:What is your understanding of Blockchain
+Ans:
+A Blockchain is constantly growing ledger that keeps a permanent record of ledger
+that keeps a permanent record of all the transaction that have taken place ,in a 
+secure,chronological and immutable way in decentralized distribution network.
+
+Q2:What is the core problem blockchain trying to solve?
+ans:Blockchain is trying to solve the problems of present internet like
+	Authenticity
+	security
+	need of powerfull trust on third party
+	
+Q3 :What are the few features which blockchain will give u
+ans:	verifiable
+	unchangeable
+	Tamper-proof
+	Immutable
+
+Q4:What all things does a Block Contain?
+ans:blocknumber
+    transaction record
+    previous block signature
+    mining key
+
+Q5:How is the verifiability of Blockchain is been attained ??
+ans:
+    every documemt has a unique fingerprint based on the present in the document 
+     if content of both document is same then fingerprint of it will be same so
+    by checking is fingerprint we can verify wheather the document is same or different
+    and verifiability can be acheived.
+
