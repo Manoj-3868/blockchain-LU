@@ -24,8 +24,8 @@ ans:blocknumber
 
 Q5:How is the verifiability of Blockchain is been attained ??
 ans:
-    every documemt has a unique fingerprint based on the present in the document 
+    every documemt has a unique fingerprint based on the content present in the document 
      if content of both document is same then fingerprint of it will be same so
-    by checking is fingerprint we can verify wheather the document is same or different
+    by checking this fingerprint we can verify wheather the document is same or different
     and verifiability can be acheived.
 
